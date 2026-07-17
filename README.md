@@ -6,13 +6,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=🔮+Multi-Agent+AI+%7C+LangGraph+%7C+FastAPI+%7C+DuckDB;📊+Power+BI+Dashboards+%7C+DAX+%7C+KPI+Analytics;🤖+XGBoost+%7C+SHAP+Explainability+%7C+Scikit-learn;📉+Customer+Churn+Prediction+%7C+Streamlit+Real-Time+App;🎯+Turning+Raw+Data+into+Boardroom-Ready+Decisions)](https://github.com/Gaurav2025G)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=820&lines=%F0%9F%94%AE+Multi-Agent+AI+%7C+LangGraph+%7C+FastAPI+%7C+DuckDB;%F0%9F%93%8A+Power+BI+Dashboards+%7C+DAX+%7C+KPI+Analytics;%F0%9F%A4%96+XGBoost+%7C+SHAP+Explainability+%7C+Scikit-learn;%F0%9F%93%89+Customer+Churn+Prediction+%7C+Streamlit+App;%F0%9F%8E%AF+Turning+Raw+Data+into+Boardroom-Ready+Decisions)](https://github.com/Gaurav2025G)
 
 </div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🟢%20OPEN%20TO%20WORK-Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20AI%20Engineer-38BDF8?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20WORK-Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20ML%20Engineer-38BDF8?style=for-the-badge&labelColor=0d1117" />
 
 <br/><br/>
 
@@ -25,11 +25,11 @@
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/gaurav-raipurkardataanalyst/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
 </a>
 &nbsp;
 <a href="mailto:gauravraipurkar04@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-gauravraipurkar04-38BDF8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Gmail-gauravraipurkar04-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
 </a>
 
 </div>
@@ -90,7 +90,7 @@ const GauravRaipurkar = {
   },
 
   projects: [
-    "🔮 Multi-Agent AI Data Analyst  — 8 agents · FastAPI + LangGraph + DuckDB · 17 tests",
+    "🔮 Multi-Agent AI Data Analyst  — 8 agents · FastAPI + LangGraph + DuckDB · 17 tests ✅",
     "📉 Customer Churn Prediction    — XGBoost + SHAP + Streamlit real-time app",
     "📊 Retail Revenue Dashboard     — 50K+ transactions · Power BI + Python + SQL",
     "🤖 CVInsight ATS Scorer         — Streamlit SaaS · Supabase auth · PDF export",
@@ -146,7 +146,7 @@ const GauravRaipurkar = {
 
 ### 📊 Retail Customer Analytics & Revenue Dashboard
 
-> **50,000+ transactions** analyzed &nbsp;·&nbsp; Executive Power BI dashboards &nbsp;·&nbsp; Statistical EDA pipeline
+> **50,000+ transactions** analyzed &nbsp;·&nbsp; Executive Power BI dashboards &nbsp;·&nbsp; Full statistical EDA pipeline
 
 [![Retail Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=Gaurav2025G&repo=Retail-Customer-Analytics&theme=nord&border_color=38BDF8&title_color=38BDF8&icon_color=38BDF8&bg_color=0d1117&border_radius=10)](https://github.com/Gaurav2025G)
 
@@ -244,7 +244,7 @@ const GauravRaipurkar = {
 
 <div align="center">
 
-<img width="72%" src="https://streak-stats.demolab.com?user=Gaurav2025G&theme=dark&background=0d1117&border=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=ffffff&sideNums=38BDF8&currStreakLabel=38BDF8&sideLabels=bae6fd&dates=6b7280&border_radius=12&stroke=38BDF8" />
+<img width="75%" src="https://streak-stats.demolab.com?user=Gaurav2025G&theme=dark&background=0d1117&border=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=ffffff&sideNums=38BDF8&currStreakLabel=38BDF8&sideLabels=bae6fd&dates=6b7280&border_radius=12&stroke=1a3a5c" />
 
 </div>
 
@@ -254,7 +254,7 @@ const GauravRaipurkar = {
 
 <div align="center">
 
-[![Gaurav's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gaurav2025G&bg_color=0d1117&color=38BDF8&line=38BDF8&point=ffffff&area=true&area_color=0f2744&hide_border=false&border_color=38BDF8&radius=6&title_color=38BDF8&custom_title=Gaurav%20Raipurkar's%20Contribution%20Graph)](https://github.com/Gaurav2025G)
+[![Gaurav Raipurkar's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gaurav2025G&bg_color=0d1117&color=38BDF8&line=38BDF8&point=ffffff&area=true&area_color=0f2744&hide_border=false&border_color=38BDF8&radius=6&title_color=38BDF8&custom_title=Gaurav%20Raipurkar's%20Contribution%20Graph)](https://github.com/Gaurav2025G)
 
 </div>
 
@@ -265,12 +265,19 @@ const GauravRaipurkar = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Gaurav2025G/Gaurav2025G/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Gaurav2025G/Gaurav2025G/output/github-contribution-grid-snake.svg" />
+  <img alt="Gaurav's Contribution Snake"
+       src="https://raw.githubusercontent.com/Gaurav2025G/Gaurav2025G/output/github-contribution-grid-snake-dark.svg"
+       width="100%" />
 </picture>
 
 </div>
+
+> ⚙️ **Note:** The snake above is generated from your **real contribution data** via GitHub Actions.
+> To activate it: add `.github/workflows/snake.yml` (provided separately) → Go to **Settings → Actions → Workflow permissions → Read & write** → Run the workflow once manually.
 
 ---
 
@@ -283,8 +290,8 @@ const GauravRaipurkar = {
 | 🎓 | B.Tech IT — CGPA **8.2** · J.D. College of Engineering, Nagpur |
 | 🧪 | **5+ end-to-end ML & AI systems** shipped |
 | 📊 | **50,000+** retail transactions analyzed with Power BI + Python |
-| 🤖 | **8 specialized AI agents** in 1 production-grade platform |
-| ✅ | **17 passing pytest tests** in multi-agent platform |
+| 🤖 | **8 specialized AI agents** inside 1 production-grade platform |
+| ✅ | **17 passing pytest tests** — multi-agent platform |
 | 🏁 | **60-Day ML Engineer Challenge** — completed |
 | 📍 | Open to: Nagpur · Pune · Hyderabad · Mumbai · **Remote** |
 | 🟢 | Status: **Immediately Available** |
@@ -302,26 +309,28 @@ const GauravRaipurkar = {
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/gaurav-raipurkardataanalyst/">
-  <img src="https://img.shields.io/badge/LINKEDIN-gaurav--raipurkardataanalyst-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/LINKEDIN-gaurav--raipurkardataanalyst-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
 </a>
 &nbsp;
 <a href="mailto:gauravraipurkar04@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-gauravraipurkar04-38BDF8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GMAIL-gauravraipurkar04-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/📍%20Available%20In-Nagpur%20%7C%20Pune%20%7C%20Hyderabad%20%7C%20Mumbai%20%7C%20Remote-38BDF8?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/%F0%9F%93%8D%20Available%20In-Nagpur%20%7C%20Pune%20%7C%20Hyderabad%20%7C%20Mumbai%20%7C%20Remote-38BDF8?style=for-the-badge&labelColor=0d1117" />
 
-<br/><br/>
-
-<div style="background:#0d1117; border:1px solid #38BDF8; border-radius:12px; padding:28px; max-width:620px; margin:0 auto;">
-<br/>
-<em><b>"Without data, you're just another person with an opinion."</b></em>
-<br/><br/>
-<span>— W. Edwards Deming</span>
-<br/><br/>
 </div>
+
+<br/>
+
+---
+
+<div align="center">
+
+*"Without data, you're just another person with an opinion."*
+
+**— W. Edwards Deming**
 
 </div>
 
