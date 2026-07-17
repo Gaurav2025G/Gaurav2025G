@@ -278,9 +278,6 @@ const GauravRaipurkar = {
 
 </div>
 
-> ⚙️ **Note:** The snake above is generated from your **real contribution data** via GitHub Actions.
-> To activate it: add `.github/workflows/snake.yml` (provided separately) → Go to **Settings → Actions → Workflow permissions → Read & write** → Run the workflow once manually.
-
 ---
 
 ## 🎯 Career Snapshot
