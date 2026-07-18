@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20WORK-Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20ML%20Engineer-38BDF8?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20WORK-Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20AI%20Engineer-38BDF8?style=for-the-badge&labelColor=0d1117" />
 
 <br/><br/>
 
