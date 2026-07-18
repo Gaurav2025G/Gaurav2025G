@@ -265,15 +265,12 @@ const GauravRaipurkar = {
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Gaurav2025G/Gaurav2025G/output/github-snake-dark.svg" />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Gaurav2025G/Gaurav2025G/output/github-snake.svg" />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Gaurav2025G/Gaurav2025G/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Gaurav2025G/Gaurav2025G/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Gaurav2025G/Gaurav2025G/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake"
+       src="https://raw.githubusercontent.com/Gaurav2025G/Gaurav2025G/output/github-snake-dark.svg" />
 </picture>
 
 </div>
