@@ -54,11 +54,7 @@
 
 📉 &nbsp;**Churn Prediction** with XGBoost + SHAP explainability + Streamlit live app
 
-🧬 &nbsp;Researching **Pulmonary Cancer Segmentation** via Deep Learning on LUNA16 dataset
-
 🛠 &nbsp;Creator of **CVInsight** (ATS SaaS) · **Datalyst AI** (Auto EDA Platform)
-
-🏁 &nbsp;Completed a grueling **60-Day ML Engineer Challenge** — project-by-project
 
 💡 &nbsp;*"Data without insight is noise. Insight without action is waste."*
 
@@ -68,69 +64,12 @@
 
 ---
 
-## 🧬 Who I Am — In Code
-
-```typescript
-const GauravRaipurkar = {
-  title       : "Data Science Graduate | AI & Analytics Engineer",
-  location    : "Nagpur, Maharashtra, India 🇮🇳",
-  education   : "B.Tech Information Technology — CGPA 8.2 (2026)",
-  email       : "gauravraipurkar04@gmail.com",
-  linkedin    : "linkedin.com/in/gaurav-raipurkardataanalyst",
-  github      : "github.com/Gaurav2025G",
-
-  stack: {
-    languages  : ["Python 🐍", "SQL", "MySQL"],
-    ml         : ["Scikit-learn", "XGBoost", "SHAP", "TensorFlow", "Deep Learning"],
-    analytics  : ["EDA", "Feature Engineering", "Statistical Modeling", "Cross-Validation"],
-    bi         : ["Power BI ⚡", "DAX", "Power Query", "KPI Reporting", "Dashboards"],
-    libraries  : ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly"],
-    engineering: ["FastAPI", "LangGraph", "DuckDB", "Streamlit", "Docker"],
-    devTools   : ["Git", "GitHub", "VS Code", "Jupyter", "Google Colab", "Excel"],
-  },
-
-  projects: [
-    "🔮 Multi-Agent AI Data Analyst  — 8 agents · FastAPI + LangGraph + DuckDB · 17 tests ✅",
-    "📉 Customer Churn Prediction    — XGBoost + SHAP + Streamlit real-time app",
-    "📊 Retail Revenue Dashboard     — 50K+ transactions · Power BI + Python + SQL",
-    "🤖 CVInsight ATS Scorer         — Streamlit SaaS · Supabase auth · PDF export",
-    "🌐 Portfolio Website            — Next.js + TypeScript + Tailwind + Recharts",
-    "🧬 Cancer Segmentation          — Deep Learning · LUNA16 dataset",
-  ],
-
-  openTo      : ["Data Analyst", "Data Scientist", "ML Engineer", "BI Developer"],
-  markets     : ["Nagpur", "Pune", "Hyderabad", "Mumbai", "Remote 🌐"],
-  availability: "🟢 Immediately Available — Full-time / Internship / Freelance",
-};
-```
-
----
-
 ## 🚀 Featured Projects
 
-### 🔮 Multi-Agent AI Data Analyst Platform
 
-> Built solo &nbsp;·&nbsp; Production-architecture &nbsp;·&nbsp; Docker deployed &nbsp;·&nbsp; **17 passing pytest tests** &nbsp;·&nbsp; Full CI pipeline
-
-[![Multi-Agent AI](https://github-readme-stats.vercel.app/api/pin/?username=Gaurav2025G&repo=Multi-Agent-Data-Analyst&theme=nord&border_color=38BDF8&title_color=38BDF8&icon_color=38BDF8&bg_color=0d1117&border_radius=10)](https://github.com/Gaurav2025G)
-
-| Layer | Technology |
-|:---|:---|
-| **Orchestration** | LangGraph · 8 Specialized Agents end-to-end |
-| **Backend** | FastAPI · Python |
-| **Analytics Engine** | DuckDB · Scikit-learn · Plotly charts |
-| **Frontend** | Streamlit · Static Web UI |
-| **DevOps** | Docker Compose · Pytest (17 tests ✅) |
-
-🌐 Live — Coming Soon &nbsp;|&nbsp; 💻 Code — [github.com/Gaurav2025G](https://github.com/Gaurav2025G)
-
----
-
-### 📉 Customer Churn Prediction & Analytics System
+### 📉 Multi-Model Customer Churn Intelligence System
 
 > End-to-end ML pipeline &nbsp;·&nbsp; **SHAP explainability** &nbsp;·&nbsp; Real-time Streamlit decision support app
-
-[![Churn Prediction](https://github-readme-stats.vercel.app/api/pin/?username=Gaurav2025G&repo=Customer-Churn-Prediction&theme=nord&border_color=38BDF8&title_color=38BDF8&icon_color=38BDF8&bg_color=0d1117&border_radius=10)](https://github.com/Gaurav2025G)
 
 | Layer | Technology |
 |:---|:---|
@@ -140,15 +79,13 @@ const GauravRaipurkar = {
 | **Libraries** | Scikit-learn · Pandas · NumPy |
 | **Language** | Python · SQL |
 
-🌐 Live — Coming Soon &nbsp;|&nbsp; 💻 Code — [github.com/Gaurav2025G](https://github.com/Gaurav2025G)
+🌐 Live —  https://multi-model-customer-churn-intelligence-system.streamlit.app/|&nbsp; 💻 Code — [github.com/Gaurav2025G](https://github.com/Gaurav2025G)
 
 ---
 
 ### 📊 Retail Customer Analytics & Revenue Dashboard
 
 > **50,000+ transactions** analyzed &nbsp;·&nbsp; Executive Power BI dashboards &nbsp;·&nbsp; Full statistical EDA pipeline
-
-[![Retail Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=Gaurav2025G&repo=Retail-Customer-Analytics&theme=nord&border_color=38BDF8&title_color=38BDF8&icon_color=38BDF8&bg_color=0d1117&border_radius=10)](https://github.com/Gaurav2025G)
 
 | Layer | Technology |
 |:---|:---|
@@ -158,15 +95,13 @@ const GauravRaipurkar = {
 | **Segmentation** | Customer Behavior · Revenue Trends |
 | **Output** | Executive Dashboards · Boardroom-ready Visuals |
 
-🌐 Live — Coming Soon &nbsp;|&nbsp; 💻 Code — [github.com/Gaurav2025G](https://github.com/Gaurav2025G)
+|&nbsp; 💻 Code — [github.com/Gaurav2025G](https://github.com/Gaurav2025G)
 
 ---
 
 ### 🤖 CVInsight — ATS Resume Scorer SaaS
 
 > Streamlit SaaS &nbsp;·&nbsp; Custom ATS scoring engine &nbsp;·&nbsp; Supabase auth &nbsp;·&nbsp; PDF export &nbsp;·&nbsp; Production UI
-
-[![CVInsight](https://github-readme-stats.vercel.app/api/pin/?username=Gaurav2025G&repo=CVInsight&theme=nord&border_color=38BDF8&title_color=38BDF8&icon_color=38BDF8&bg_color=0d1117&border_radius=10)](https://github.com/Gaurav2025G)
 
 | Layer | Technology |
 |:---|:---|
@@ -176,7 +111,7 @@ const GauravRaipurkar = {
 | **Reports** | ReportLab · PDF export |
 | **Architecture** | Multi-file component structure |
 
-🌐 Live — Coming Soon &nbsp;|&nbsp; 💻 Code — [github.com/Gaurav2025G](https://github.com/Gaurav2025G)
+|&nbsp; 💻 Code — [github.com/Gaurav2025G](https://github.com/Gaurav2025G)
 
 ---
 
@@ -291,8 +226,7 @@ const GauravRaipurkar = {
 | 📊 | **50,000+** retail transactions analyzed with Power BI + Python |
 | 🤖 | **8 specialized AI agents** inside 1 production-grade platform |
 | ✅ | **17 passing pytest tests** — multi-agent platform |
-| 🏁 | **60-Day ML Engineer Challenge** — completed |
-| 📍 | Open to: Nagpur · Pune · Hyderabad · Mumbai · **Remote** |
+| 📍 | Open to: Nagpur · Pune · Hyderabad · Mumbai ·|
 | 🟢 | Status: **Immediately Available** |
 
 </div>
