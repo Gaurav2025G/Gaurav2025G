@@ -164,17 +164,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gaurav2025G&show_icons=true&theme=nord&border_color=38BDF8&title_color=38BDF8&icon_color=38BDF8&text_color=cdd6f4&bg_color=0d1117&border_radius=12&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav2025G&layout=compact&theme=nord&border_color=38BDF8&title_color=38BDF8&text_color=cdd6f4&bg_color=0d1117&border_radius=12&langs_count=8" />
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
